@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ToJ/Lyt4dtZUDsBZTa2NsFJb23jWSNeFY49+AH8UwhaBTRkypePKfFO8xCbX8VVGY3aMrtPsj+xcyK+SOmCElA==",
+  "success": true,
+  "projectFilePath": "D:\\Firdy\\Programming\\C#\\GoogleSheetsAndCsharp\\GoogleSheetsAndCsharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Firdy\\.nuget\\packages\\google.apis\\1.45.0\\google.apis.1.45.0.nupkg.sha512",
+    "C:\\Users\\Firdy\\.nuget\\packages\\google.apis.auth\\1.45.0\\google.apis.auth.1.45.0.nupkg.sha512",
+    "C:\\Users\\Firdy\\.nuget\\packages\\google.apis.core\\1.45.0\\google.apis.core.1.45.0.nupkg.sha512",
+    "C:\\Users\\Firdy\\.nuget\\packages\\google.apis.sheets.v4\\1.45.0.1930\\google.apis.sheets.v4.1.45.0.1930.nupkg.sha512",
+    "C:\\Users\\Firdy\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
